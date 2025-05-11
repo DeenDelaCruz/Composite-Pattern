@@ -25,5 +25,6 @@
     * Calculating and displaying the total budget of a College.
 
 
-<h3>UML Diagram:</h3>
+UML Diagram:
 ![alt text](image.png)
+
